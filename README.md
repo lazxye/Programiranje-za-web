@@ -1,2 +1,2 @@
 # Programiranje-za-web
-Materijali za PROGRAMIRANJE ZA WEB
+Materijali za pr4edmet Programiranje za web
